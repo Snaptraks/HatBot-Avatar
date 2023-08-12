@@ -1,0 +1,48 @@
+# The file names provided here refer to the ones found in the HatBot-Avatar repo
+# link: https://github.com/Snaptraks/HatBot-Avatar/
+
+# Format of this file:
+# [folder_name] : the name of the folder in the repo, usually an event's name
+# file_name = some_file.png : the name of the file inside folder_name to be used
+# fallback = true : If the folder is the fallback one, when no events are active
+# start_date = October 31 : Start date of the event (inclusive)
+# end_date = November 1 : End date of the event (inclusive)
+
+# NOTE:
+# If fallback = true, then start_date and end_date should not be present.
+# If fallback is not specified, then the dates must be specified.
+# Events dates cannot overlap in time.
+
+[base]
+file_name = "HatBotLogo.png"
+fallback = true
+
+[canada_day]
+file_name = "HatBotLogo_Canada.png"
+start_date = "July 1"
+end_date = "July 1"
+
+[christmas]
+file_name = "HatBotLogo_Christmas.png"
+start_date = "December 1"
+end_date = "December 25"
+
+[easter]
+file_name = "HatBotLogo_Easter.png"
+start_date = "March 29"
+end_date = "April 1"
+
+[halloween]
+file_name = "HatBotLogo_Halloween.png"
+start_date = "October 26"
+end_date = "November 1"
+
+[new_year]
+file_name = "HatBotLogo_NewYear.png"
+start_date = "December 26"
+end_date = "January 1"
+
+[valentines]
+file_name = "HatBotLogo_Valentines.png"
+start_date = "February 14"
+end_date = "February 14"
