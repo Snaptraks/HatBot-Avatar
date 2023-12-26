@@ -14,35 +14,40 @@
 # Events dates cannot overlap in time.
 
 [base]
-file_name = "HatBotLogo.png"
-fallback = true
+    file_name = "HatBotLogo.png"
+    fallback  = true
 
 [canada_day]
-file_name = "HatBotLogo_Canada.png"
-start_date = "July 1"
-end_date = "July 1"
+    file_name  = "HatBotLogo_Canada.png"
+    start_date = "July 1"
+    end_date   = "July 1"
 
 [christmas]
-file_name = "HatBotLogo_Christmas.png"
-start_date = "December 1"
-end_date = "December 25"
+    file_name  = "HatBotLogo_Christmas.png"
+    start_date = "December 1"
+    end_date   = "December 25"
 
 [easter]
-file_name = "HatBotLogo_Easter.png"
-start_date = "March 29"
-end_date = "April 1"
+    file_name  = "HatBotLogo_Easter.png"
+    start_date = "March 29"
+    end_date   = "April 1"
 
 [halloween]
-file_name = "HatBotLogo_Halloween.png"
-start_date = "October 26"
-end_date = "November 1"
+    file_name  = "HatBotLogo_Halloween.png"
+    start_date = "October 26"
+    end_date   = "November 1"
 
 [new_year]
-file_name = "HatBotLogo_NewYear.png"
-start_date = "December 26"
-end_date = "January 1"
+    file_name  = "HatBotLogo_NewYear.png"
+    start_date = "December 26"
+    end_date   = "December 31"
+
+[new_year_2] # Repeat the New Year event in the new year
+    file_name  = "HatBotLogo_NewYear.png"
+    start_date = "January 1"
+    end_date   = "January 2"
 
 [valentines]
-file_name = "HatBotLogo_Valentines.png"
-start_date = "February 14"
-end_date = "February 14"
+    file_name  = "HatBotLogo_Valentines.png"
+    start_date = "February 14"
+    end_date   = "February 14"
