@@ -42,11 +42,6 @@
     start_date = "December 26"
     end_date   = "December 31"
 
-[new_year_2] # Repeat the New Year event in the new year
-    file_name  = "HatBotLogo_NewYear.png"
-    start_date = "January 1"
-    end_date   = "January 2"
-
 [valentines]
     file_name  = "HatBotLogo_Valentines.png"
     start_date = "February 14"
