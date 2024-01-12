@@ -43,7 +43,7 @@
     end_date   = "December 31"
 
 [new_year_2]
-    filename   = "../new_year/HatBotLogo_NewYear.png"
+    file_name   = "../new_year/HatBotLogo_NewYear.png"
     start_date = "January 12"
     end_date   = "January 12"
 
