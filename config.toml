@@ -43,9 +43,9 @@
     end_date   = "December 31"
 
 [new_year_2]
-    file_name   = "../new_year/HatBotLogo_NewYear.png"
-    start_date = "January 12"
-    end_date   = "January 12"
+    file_name  = "../new_year/HatBotLogo_NewYear.png"
+    start_date = "January 1"
+    end_date   = "January 1"
 
 [valentines]
     file_name  = "HatBotLogo_Valentines.png"
