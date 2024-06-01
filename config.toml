@@ -52,6 +52,11 @@
     start_date = "January 1"
     end_date   = "January 1"
 
+[pride]
+    file_name  = "HatBotLogo_Pride.png"
+    start_date = "June 1"
+    end_date   = "June 30"
+
 [valentines]
     file_name  = "HatBotLogo_Valentines.png"
     start_date = "February 14"
