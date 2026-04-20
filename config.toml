@@ -29,8 +29,8 @@
 
 [easter]
     file_name  = "HatBotLogo_Easter.png"
-    start_date = "April 18"
-    end_date   = "April 21"
+    start_date = "March 26"
+    end_date   = "March 29"
 
 [halloween]
     file_name  = "HatBotLogo_Halloween.png"
